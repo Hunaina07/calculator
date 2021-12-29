@@ -1,0 +1,16 @@
+.main{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+}
+.cal{
+    width: 95%;
+    background-color: grey;
+    color: white;
+}
+.btn{
+    width: 20%;
+    margin: 3px;
+    background-color: lightgrey;
+
+}
